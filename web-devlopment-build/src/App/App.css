@@ -1,0 +1,111 @@
+* {
+  text-align: start;
+  unicode-bidi: plaintext;
+  overflow-x: hidden;
+  
+}
+
+body {
+  margin: 0;
+  font-family: Roboto,Arial, sans-serif;
+  height: 100%;
+  margin-top: 60px;
+}
+
+body.light {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+  background-color: black;
+  color: white;
+}
+
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  display: none;
+}
+
+.Menu.open~.Overlay {
+  display: block;
+}
+
+.App {
+  width: 100vw;
+  height: max-content;
+}
+
+.App.light {
+  background-color: white;
+  color: black;
+}
+
+.App.dark {
+  background-color: black;
+  color: white;
+}
+
+p {
+  word-break: break-word;
+  white-space: normal;
+}
+
+button {
+  --yt-button-margin: 0;
+  --yt-button-padding: 10px 16px;
+  --yt-button-padding-minus-border: 9px 15px;
+  --yt-button-padding-minus-focus-outline: 8px 14px;
+  --yt-button-padding-minus-focus-outline-width: 2px;
+  --yt-button-with-icon-padding-minus-focus-outline: 4px 14px;
+  --yt-button-border-radius: 2px;
+
+}
+
+
+.clickable {
+  cursor: pointer;
+}
+
+.btn {
+  border-radius: 20px;
+  background-color: transparent;
+  color: inherit;
+  border: 0px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.btn:hover {
+  background-color: lightgrey;
+  color: inherit;
+}
+
+.btn:active {
+  background-color: grey;
+  color: inherit;
+  border: 0px;
+  outline: none;
+}
+
+input {
+  color: inherit;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.icon-text {
+  margin-left: 20px;
+}

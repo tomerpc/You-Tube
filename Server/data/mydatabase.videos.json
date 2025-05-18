@@ -1,0 +1,1787 @@
+[{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b0"
+  },
+  "title": "twenty one pilots - Chlorine (Official Video)",
+  "description": "This is a description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.aa",
+  "source": "/Videos/1.mp4",
+  "thumbnail": "/pictures/thumbnails/1.png",
+  "tags": [
+    "Music",
+    "Check"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "meny",
+  "likeCount": 0,
+  "views": 1044,
+  "usersLikes": [
+    "meny"
+  ],
+  "comments": [
+    {
+      "user": "baby",
+      "content": "new tryasdadsqqq\nasdasasfasd\nasdasd\n\n",
+      "date": {
+        "$date": "2024-06-19T21:39:57.343Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "baby",
+          "content": "good",
+          "date": {
+            "$date": "2024-06-19T21:40:03.524Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66735033434aecfbe7d78c98"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby testing",
+          "date": {
+            "$date": "2024-06-19T21:40:10.012Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6673503a434aecfbe7d78ca8"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby asf",
+          "date": {
+            "$date": "2024-06-20T01:21:17.578Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6673840d693c1960f8cc1d17"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby asss",
+          "date": {
+            "$date": "2024-06-20T01:22:55.996Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738470693c1960f8cc1d7e"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby s",
+          "date": {
+            "$date": "2024-06-20T01:24:29.666Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667384cd693c1960f8cc1db1"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby ss",
+          "date": {
+            "$date": "2024-06-20T01:31:23.503Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6673866b693c1960f8cc1f98"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby ss\n",
+          "date": {
+            "$date": "2024-06-20T01:31:37.100Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738679693c1960f8cc1fc3"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby asfa",
+          "date": {
+            "$date": "2024-06-20T01:31:44.756Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738680693c1960f8cc1ff2"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1",
+          "date": {
+            "$date": "2024-06-20T01:31:48.379Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738684693c1960f8cc2025"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby asdasd",
+          "date": {
+            "$date": "2024-06-20T01:31:52.423Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738688693c1960f8cc205c"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1",
+          "date": {
+            "$date": "2024-06-20T01:31:56.188Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6673868c693c1960f8cc2097"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 3",
+          "date": {
+            "$date": "2024-06-20T01:32:38.741Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667386b6693c1960f8cc20d6"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby s",
+          "date": {
+            "$date": "2024-06-20T01:32:46.389Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667386be693c1960f8cc2119"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby s",
+          "date": {
+            "$date": "2024-06-20T01:32:51.720Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667386c3693c1960f8cc2160"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby a",
+          "date": {
+            "$date": "2024-06-20T01:34:27.147Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738723693c1960f8cc2313"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1\n",
+          "date": {
+            "$date": "2024-06-20T01:35:01.590Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738745693c1960f8cc2416"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1",
+          "date": {
+            "$date": "2024-06-20T01:35:07.641Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6673874b693c1960f8cc2469"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 2",
+          "date": {
+            "$date": "2024-06-20T01:35:12.620Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738750693c1960f8cc24c0"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1",
+          "date": {
+            "$date": "2024-06-20T01:36:57.860Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667387b9693c1960f8cc26a7"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1\n",
+          "date": {
+            "$date": "2024-06-20T01:37:50.334Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667387ee693c1960f8cc272c"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1\n\n",
+          "date": {
+            "$date": "2024-06-20T01:37:53.309Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667387f1693c1960f8cc278f"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby \n1\n",
+          "date": {
+            "$date": "2024-06-20T01:37:56.536Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667387f4693c1960f8cc27f6"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby \n1\n\n",
+          "date": {
+            "$date": "2024-06-20T01:39:01.771Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738835693c1960f8cc2969"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 22",
+          "date": {
+            "$date": "2024-06-20T01:39:05.380Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738839693c1960f8cc29d8"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1",
+          "date": {
+            "$date": "2024-06-20T01:39:11.531Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6673883f693c1960f8cc2a4b"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "asfafs\n",
+          "date": {
+            "$date": "2024-06-20T01:52:47.997Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738b70693c1960f8cc52ed"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "as\n",
+          "date": {
+            "$date": "2024-06-20T01:57:18.643Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738c7e693c1960f8cc59a3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6673502d434aecfbe7d78c8c"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "another comment",
+      "date": {
+        "$date": "2024-06-19T21:40:48.674Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "baby",
+          "content": "3",
+          "date": {
+            "$date": "2024-06-20T01:41:41.478Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667388d5693c1960f8cc2cf8"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "afsafsasdasd\n\n",
+          "date": {
+            "$date": "2024-06-20T01:52:51.186Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738b73693c1960f8cc5361"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "asfsaf\nasdasd\n",
+          "date": {
+            "$date": "2024-06-20T01:53:07.407Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738b83693c1960f8cc53d9"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby asfaf\n",
+          "date": {
+            "$date": "2024-06-20T01:56:37.150Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738c55693c1960f8cc56f1"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby asf\n",
+          "date": {
+            "$date": "2024-06-20T01:57:03.192Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738c6f693c1960f8cc5883"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "@baby 1\n",
+          "date": {
+            "$date": "2024-06-20T01:57:10.005Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66738c76693c1960f8cc5907"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66735060434aecfbe7d78e3c"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "try",
+      "date": {
+        "$date": "2024-06-20T01:16:22.021Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "baby",
+          "content": "2",
+          "date": {
+            "$date": "2024-06-20T01:41:15.845Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "667388bb693c1960f8cc2b94"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667382e6693c1960f8cc1cb9"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "r",
+      "date": {
+        "$date": "2024-06-20T01:41:06.824Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667388b2693c1960f8cc2b18"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "sa",
+      "date": {
+        "$date": "2024-06-20T01:44:41.376Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66738989693c1960f8cc37e8"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "asd\n",
+      "date": {
+        "$date": "2024-06-20T01:48:19.356Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66738a63693c1960f8cc44b7"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "asd\n",
+      "date": {
+        "$date": "2024-06-20T01:48:47.203Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66738a7f693c1960f8cc4753"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "as'\n",
+      "date": {
+        "$date": "2024-06-20T12:23:59.429Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66741f5f693c1960f8ccc12a"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "aa\n",
+      "date": {
+        "$date": "2024-06-20T12:24:35.274Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "meny",
+          "content": "asdss",
+          "date": {
+            "$date": "2024-06-20T14:44:22.728Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66744046067903063a1791c7"
+          }
+        },
+        {
+          "user": "meny",
+          "content": "@meny afsfa",
+          "date": {
+            "$date": "2024-06-20T14:44:29.607Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674404d067903063a1792f9"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66741f83067903063a83478c"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "a\n",
+      "date": {
+        "$date": "2024-06-20T12:25:46.577Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66741fca067903063a835500"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "asd\n",
+      "date": {
+        "$date": "2024-06-20T12:25:51.140Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66741fcf067903063a835f69"
+      }
+    },
+    {
+      "user": "meny",
+      "content": "cholrine\n",
+      "date": {
+        "$date": "2024-06-20T13:31:41.444Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "meny",
+          "content": "asfasf",
+          "date": {
+            "$date": "2024-06-20T14:44:35.932Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66744053067903063a179ada"
+          }
+        },
+        {
+          "user": "meny",
+          "content": "@meny asffas",
+          "date": {
+            "$date": "2024-06-20T14:44:55.175Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66744067067903063a179b79"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66742f3d067903063a84b9e9"
+      }
+    }
+  ],
+  "__v": 95
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b1"
+  },
+  "title": "twenty one pilots - Ride (Official Video)\n",
+  "description": "asasddasasdasd",
+  "source": "/Videos/2.mp4",
+  "thumbnail": "/pictures/thumbnails/2.png",
+  "tags": [
+    "Music",
+    "Check"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "baby",
+  "likeCount": 0,
+  "views": 335,
+  "usersLikes": [],
+  "comments": [
+    {
+      "user": "baby",
+      "content": "1",
+      "date": {
+        "$date": "2024-06-19T22:57:25.493Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "baby",
+          "content": "try",
+          "date": {
+            "$date": "2024-06-20T00:58:45.939Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66737ec5693c1960f8cc0465"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66736255c22e23a7bc6e5504"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "asfasf",
+      "date": {
+        "$date": "2024-06-20T00:58:26.706Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "kobi",
+          "content": "ff\n",
+          "date": {
+            "$date": "2024-06-20T23:55:12.286Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c160ce9a8bd5a04650a1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66737eb2693c1960f8cc0333"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "baby\n",
+      "date": {
+        "$date": "2024-06-20T03:41:52.030Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "kobi",
+          "content": "fsf",
+          "date": {
+            "$date": "2024-06-21T00:01:07.866Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c2c3ce9a8bd5a0467e8c"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi 11",
+          "date": {
+            "$date": "2024-06-21T00:01:12.890Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c2c8ce9a8bd5a0467ea8"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi 1",
+          "date": {
+            "$date": "2024-06-21T00:01:31.549Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c2dbce9a8bd5a0467eca"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi asdasd",
+          "date": {
+            "$date": "2024-06-21T00:01:36.248Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c2e0ce9a8bd5a0467ef2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6673a500693c1960f8cc8b50"
+      }
+    }
+  ],
+  "__v": 34
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b2"
+  },
+  "title": "Houdini by Eminem",
+  "description": "This is a 3 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/3.mp4",
+  "thumbnail": "/pictures/thumbnails/3.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 343,
+  "usersLikes": [],
+  "comments": [],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b3"
+  },
+  "title": "Drake - First Person Shooter ft. J. Cole",
+  "description": "This is a 4 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/4.mp4",
+  "thumbnail": "/pictures/thumbnails/4.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 1,
+  "views": 330,
+  "usersLikes": [
+    "666ef3f6333d2d5f5656511c"
+  ],
+  "comments": [
+    {
+      "user": "baby",
+      "content": "asdads",
+      "date": {
+        "$date": "2024-06-19T21:54:09.835Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66735381434aecfbe7d7a7ac"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "asdads",
+      "date": {
+        "$date": "2024-06-19T21:54:13.741Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66735385434aecfbe7d7a7b6"
+      }
+    }
+  ],
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b4"
+  },
+  "title": "Drake, Kanye West, Lil Wayne, Eminem - Forever (Explicit Version) (Official Music Video)",
+  "description": "This is a 5 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/5.mp4",
+  "thumbnail": "/pictures/thumbnails/5.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 308,
+  "usersLikes": [],
+  "comments": [
+    {
+      "user": "meny",
+      "content": "comment",
+      "date": {
+        "$date": "2024-06-18T16:30:54.895Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "6671b63ed0540d5e60aa718d"
+      }
+    },
+    {
+      "user": "meny",
+      "content": "asdasd",
+      "date": {
+        "$date": "2024-06-18T23:36:33.597Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66721a01df8cf84ca3d48732"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "f",
+      "date": {
+        "$date": "2024-06-19T23:04:01.654Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667363e1c22e23a7bc6e5b7e"
+      }
+    }
+  ],
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b5"
+  },
+  "title": "Eminem - No Love (Explicit Version) ft. Lil Wayne",
+  "description": "This is a 6 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/6.mp4",
+  "thumbnail": "/pictures/thumbnails/6.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 206,
+  "usersLikes": [],
+  "comments": [
+    {
+      "user": "meny",
+      "content": "sdfsdfsd",
+      "date": {
+        "$date": "2024-06-18T16:14:22.626Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "6671b25ed0540d5e60aa49ac"
+      }
+    },
+    {
+      "user": "meny",
+      "content": "asdasd",
+      "date": {
+        "$date": "2024-06-18T23:36:08.778Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667219e8df8cf84ca3d48569"
+      }
+    }
+  ],
+  "__v": 41
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b6"
+  },
+  "title": "Eminem - Space Bound (Official Video)",
+  "description": "This is a 7 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/7.mp4",
+  "thumbnail": "/pictures/thumbnails/7.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:12",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 322,
+  "usersLikes": [],
+  "comments": [
+    {
+      "user": "baby",
+      "content": "you",
+      "date": {
+        "$date": "2024-06-19T21:52:28.253Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "baby",
+          "content": "are",
+          "date": {
+            "$date": "2024-06-19T21:52:51.169Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66735333434aecfbe7d79ff7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6673531c434aecfbe7d79feb"
+      }
+    }
+  ],
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b7"
+  },
+  "title": "Eminem - Love The Way You Lie ft. Rihanna",
+  "description": "This is a 8 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/8.mp4",
+  "thumbnail": "/pictures/thumbnails/8.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 1,
+  "views": 189,
+  "usersLikes": [
+    "666ef3f6333d2d5f5656511c"
+  ],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b8"
+  },
+  "title": "Eminem ft. Rihanna - The Monster (Explicit) [Official Video]",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/9.mp4",
+  "thumbnail": "/pictures/thumbnails/9.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 241,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7b9"
+  },
+  "title": "twenty one pilots: Heathens (from Suicide Squad: The Album) [OFFICIAL VIDEO]",
+  "description": "This is a 10 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/10.mp4",
+  "thumbnail": "/pictures/thumbnails/10.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:11",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 181,
+  "usersLikes": [],
+  "comments": [
+    {
+      "user": "baby",
+      "content": "new comment",
+      "date": {
+        "$date": "2024-06-19T23:05:17.236Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "6673642dc22e23a7bc6e5c7c"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7ba"
+  },
+  "title": "Imagine Dragons & JID - Enemy (from the series Arcane: League of Legends) | Official Music Video",
+  "description": "This is a 11 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/11.mp4",
+  "thumbnail": "/pictures/thumbnails/11.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 1,
+  "views": 370,
+  "usersLikes": [
+    "666ef3f6333d2d5f5656511c"
+  ],
+  "comments": [
+    {
+      "user": "meny",
+      "content": "check\n",
+      "date": {
+        "$date": "2024-06-18T16:17:51.866Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "meny",
+          "content": "new check\n",
+          "date": {
+            "$date": "2024-06-18T16:17:57.888Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6671b335d0540d5e60aa65b2"
+          }
+        },
+        {
+          "user": "baby",
+          "content": "asffas",
+          "date": {
+            "$date": "2024-06-19T21:57:56.453Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66735464434aecfbe7d7afde"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6671b32fd0540d5e60aa65a6"
+      }
+    },
+    {
+      "user": "meny",
+      "content": "awome\n",
+      "date": {
+        "$date": "2024-06-18T16:30:39.524Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "6671b62fd0540d5e60aa708a"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "awsome\n",
+      "date": {
+        "$date": "2024-06-19T23:12:55.932Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667365f7c22e23a7bc6e6e56"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "111",
+      "date": {
+        "$date": "2024-06-19T23:12:57.670Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667365f9c22e23a7bc6e6e6c"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "2",
+      "date": {
+        "$date": "2024-06-19T23:12:58.744Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667365fac22e23a7bc6e6e85"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "3",
+      "date": {
+        "$date": "2024-06-19T23:12:59.700Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667365fbc22e23a7bc6e6ea1"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "4",
+      "date": {
+        "$date": "2024-06-19T23:13:00.712Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667365fcc22e23a7bc6e6ec0"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "5",
+      "date": {
+        "$date": "2024-06-19T23:13:01.751Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667365fdc22e23a7bc6e6ee2"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "6",
+      "date": {
+        "$date": "2024-06-19T23:13:03.435Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667365ffc22e23a7bc6e6f07"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "7",
+      "date": {
+        "$date": "2024-06-19T23:13:04.945Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66736600c22e23a7bc6e6f2f"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "8",
+      "date": {
+        "$date": "2024-06-19T23:13:06.153Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66736602c22e23a7bc6e6f5a"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "1",
+      "date": {
+        "$date": "2024-06-19T23:14:47.748Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66736667c22e23a7bc6e77d4"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "123",
+      "date": {
+        "$date": "2024-06-19T23:14:49.914Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66736669c22e23a7bc6e7805"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "asd",
+      "date": {
+        "$date": "2024-06-19T23:15:43.183Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "6673669fc22e23a7bc6e800e"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "check",
+      "date": {
+        "$date": "2024-06-19T23:16:15.877Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667366bfc22e23a7bc6e84ed"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "check",
+      "date": {
+        "$date": "2024-06-19T23:16:23.138Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667366c7c22e23a7bc6e8550"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "1",
+      "date": {
+        "$date": "2024-06-19T23:16:26.247Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667366cac22e23a7bc6e858d"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "5",
+      "date": {
+        "$date": "2024-06-19T23:16:37.240Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667366d5c22e23a7bc6e8707"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "new",
+      "date": {
+        "$date": "2024-06-19T23:16:48.059Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "kobi",
+          "content": "as",
+          "date": {
+            "$date": "2024-06-20T23:53:58.129Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c116ce9a8bd5a0464d2e"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi fff\n",
+          "date": {
+            "$date": "2024-06-20T23:54:02.177Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c11ace9a8bd5a0464da3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667366e0c22e23a7bc6e874a"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "old",
+      "date": {
+        "$date": "2024-06-19T23:17:05.465Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667366f1c22e23a7bc6e8d3b"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "sort",
+      "date": {
+        "$date": "2024-06-19T23:17:15.157Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "667366fbc22e23a7bc6e8d84"
+      }
+    },
+    {
+      "user": "baby",
+      "content": "this",
+      "date": {
+        "$date": "2024-06-20T00:59:39.715Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66737efb693c1960f8cc17d8"
+      }
+    },
+    {
+      "user": "meny",
+      "content": "enemyasfs",
+      "date": {
+        "$date": "2024-06-20T13:31:18.736Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "meny",
+          "content": "asffas",
+          "date": {
+            "$date": "2024-06-20T14:14:10.203Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66743932067903063acc902b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66742f26067903063a84aecf"
+      }
+    },
+    {
+      "user": "meny",
+      "content": "enemy\n",
+      "date": {
+        "$date": "2024-06-20T14:29:08.148Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "66743cb4067903063a0c1e06"
+      }
+    },
+    {
+      "user": "kobi",
+      "content": "sdgsgddd",
+      "date": {
+        "$date": "2024-06-20T23:19:43.963Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "6674b90fce9a8bd5a045d4eb"
+      }
+    },
+    {
+      "user": "kobi",
+      "content": "\nasfasffas\n\nasff",
+      "date": {
+        "$date": "2024-06-20T23:21:17.719Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "kobi",
+          "content": "@kobi fff\n",
+          "date": {
+            "$date": "2024-06-20T23:44:58.617Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674beface9a8bd5a0463cea"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi yo",
+          "date": {
+            "$date": "2024-06-20T23:50:26.875Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c042ce9a8bd5a04644a5"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi asfsfa",
+          "date": {
+            "$date": "2024-06-20T23:52:32.675Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c0c0ce9a8bd5a04648b1"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi asf\n",
+          "date": {
+            "$date": "2024-06-20T23:53:45.665Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c109ce9a8bd5a0464923"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi hello\n",
+          "date": {
+            "$date": "2024-06-20T23:53:53.489Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c111ce9a8bd5a046499b"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "ff",
+          "date": {
+            "$date": "2024-06-20T23:54:24.984Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c131ce9a8bd5a0464e21"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi 6\n",
+          "date": {
+            "$date": "2024-06-20T23:54:28.863Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c134ce9a8bd5a0464eab"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6674b96dce9a8bd5a045f6b7"
+      }
+    },
+    {
+      "user": "kobi",
+      "content": "\nasfa\n",
+      "date": {
+        "$date": "2024-06-20T23:57:33.956Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "6674c1edce9a8bd5a04675c9"
+      }
+    }
+  ],
+  "__v": 154
+},
+{
+  "_id": {
+    "$oid": "6670d2c09e951b081c19c7bb"
+  },
+  "title": "Eminem - Venom",
+  "description": "This is a 12 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.\n\n",
+  "source": "/Videos/12.mp4",
+  "thumbnail": "/pictures/thumbnails/12.png",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 1,
+  "views": 168,
+  "usersLikes": [
+    "666ef3f6333d2d5f5656511c"
+  ],
+  "comments": [
+    {
+      "user": "baby",
+      "content": "asfafs",
+      "date": {
+        "$date": "2024-06-19T21:58:04.407Z"
+      },
+      "usersLikes": [],
+      "replies": [
+        {
+          "user": "kobi",
+          "content": "newss",
+          "date": {
+            "$date": "2024-06-20T18:01:29.997Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "66746e7a067903063a1d85ec"
+          }
+        },
+        {
+          "user": "kobi",
+          "content": "@kobi ss",
+          "date": {
+            "$date": "2024-06-20T23:49:29.425Z"
+          },
+          "usersLikes": [],
+          "_id": {
+            "$oid": "6674c009ce9a8bd5a0463f33"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6673546c434aecfbe7d7b02d"
+      }
+    },
+    {
+      "user": "kobi",
+      "content": "aa",
+      "date": {
+        "$date": "2024-06-20T23:06:48.346Z"
+      },
+      "usersLikes": [],
+      "replies": [],
+      "_id": {
+        "$oid": "6674b608ce9a8bd5a0454a88"
+      }
+    }
+  ],
+  "__v": 42
+},
+{
+  "_id": {
+    "$oid": "667ecadccfa30683ec933c8f"
+  },
+  "title": "EEEAAAOOO [Official Video]",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/eeeaaaooo_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/eeeaaaooo_thumbnail.jpg",
+  "tags": [
+    "Music"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 233,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecafdcfa30683ec933c90"
+  },
+  "title": "GTA V cool clip No.7",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_7th_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail7.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 227,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecb0dcfa30683ec933c91"
+  },
+  "title": "GTA V cool clip No.8",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_8th_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail8.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 225,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecb21cfa30683ec933c92"
+  },
+  "title": "GTA V cool clip No.9",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_9th_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail9.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 226,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecb33cfa30683ec933c93"
+  },
+  "title": "GTA V cool clip No.10",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_10th_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail10.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 234,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecb44cfa30683ec933c94"
+  },
+  "title": "GTA V cool clip No.11",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/untitled_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail11.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 227,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecb56cfa30683ec933c95"
+  },
+  "title": "GTA V cool clip No.1",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_first_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail1.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 264,
+  "usersLikes": [],
+  "comments": [],
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "667ecb6bcfa30683ec933c96"
+  },
+  "title": "GTA V cool clip No.2",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_second_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail2.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 228,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecb78cfa30683ec933c97"
+  },
+  "title": "GTA V cool clip No.3",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_third_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail3.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 274,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecb86cfa30683ec933c98"
+  },
+  "title": "GTA V cool clip No.4",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_fourth_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail4.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 228,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecba3cfa30683ec933c99"
+  },
+  "title": "GTA V cool clip No.5",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_fifth_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail5.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 225,
+  "usersLikes": [],
+  "comments": []
+},
+{
+  "_id": {
+    "$oid": "667ecbb3cfa30683ec933c9a"
+  },
+  "title": "GTA V cool clip No.6",
+  "description": "This is a 9 description of the video. It contains detailed information about the video content. It might be quite long and detailed, providing insights and background information.",
+  "source": "/Videos/gta_sixth_vid.mp4",
+  "thumbnail": "/pictures/thumbnails/gta5_thumbnail6.jpg",
+  "tags": [
+    "Gaming"
+  ],
+  "upload_date": "2024-06-30",
+  "duration": "00:10",
+  "username": "kobi",
+  "likeCount": 0,
+  "views": 228,
+  "usersLikes": [],
+  "comments": []
+}]

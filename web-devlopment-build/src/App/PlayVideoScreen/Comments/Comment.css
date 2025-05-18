@@ -1,0 +1,55 @@
+.replies.hide {
+    display: none;
+  }
+  
+  .replies.show {
+    display: inherit;
+  }
+
+  #outercomment{
+    display: flex;
+    justify-content: row;
+    align-content: space-between;
+    margin: 0px;
+  }
+  #innercomment{
+
+    width: 100%;
+    margin-top: 0px;
+    border-radius: 4px;
+    padding: 10px;  
+    font-size: 14px;
+    border: 0px;
+  }
+  #commentUsername{
+    width: fit-content;
+
+  }
+  img{
+    margin: 10px;
+    border-radius: 100%;
+  }
+  
+.newReply{
+  display: flex;
+  align-items: flex-start; /* Align items at the top */
+  gap: 10px; /* Add some space between items */
+}
+.newReply img{
+  flex-shrink: 0;
+}
+
+.button-container-like-reply {
+  width: inherit;
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-start; /* Align buttons to the right */
+  flex-direction: row;
+}
+
+@media(max-width:500px) {
+   .profilePic{
+    width: 30px;
+    height: 30px;
+  }
+}

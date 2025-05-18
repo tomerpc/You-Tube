@@ -1,0 +1,150 @@
+/* topbar.css */
+
+.TopBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-color: inherit;
+  color: inherit;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  z-index: 1000;
+}
+.leftTop{
+  align-items: center;
+  min-width: 210px;
+}
+.icon{
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.app-title {
+  margin: 0;
+  font-size: 1.2rem;
+  align-contet: center;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  min-width: 170px;
+}
+
+.hamburger-menu {
+  cursor: pointer;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.hamburger-menu:hover {
+  background-color: lightgray;
+}
+
+.hamburger-menu .bar {
+  width: 17px;
+  height: 1px;
+  margin: 4px 0;
+}
+
+.search {
+  display: flex;
+  width: 50%;
+  flex-direction: row;
+  align-items: center;
+  flex-shrink: 1;
+}
+.smallTopBar{
+  background-color: inherit;
+}
+.bigTopBar{
+  background-color: inherit;
+}
+
+.search-input {
+  padding-left: 20px;
+  background-color: inherit;
+  color: inherit;
+  width: 100%;
+  height: 40px;
+  border-radius: 20px;
+  border-color: lightgrey;
+}
+
+.search-input:focus {
+  border-color: grey;
+  outline: none;
+
+}
+
+.button-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.leftTop {
+  display: flex;
+}
+
+.bar.dark {
+  background-color: white;
+}
+
+.bar.light {
+  background-color: black;
+}
+.smallTopBar{
+  display: none;
+}
+.RightTopSmall{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+
+@media(max-width:656px) {
+  .bigScreenSearch{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+  }
+
+  .TopBar .icon-text {
+    margin-left: 0px;
+    display: none;
+  }
+  .smallTopBar{
+    display: flex;
+  }
+  .bigTopBar{
+    display: none;
+  }
+
+  .search {
+    justify-content: flex-end;
+  }
+
+  .btn.SignInBtn {
+    margin: 0px;
+    flex-shrink: 0;
+  }
+}
+@media (min-width:656px) {
+  .btn.SignInBtn {
+    margin: 0px;
+    min-width: 110px;
+  }
+  .drop-down{
+    min-width: 110px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .RightTop{
+    min-width: 110px;
+  }
+}

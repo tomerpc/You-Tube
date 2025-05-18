@@ -1,0 +1,60 @@
+.description-container {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.description-view p {
+  font-size: 16px;
+}
+
+.description-edit textarea {
+  width: 100%;
+  padding: 10px;
+  height: auto;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box; 
+  background-color: transparent;
+  color: inherit;
+  min-height: 100px; /* Set a minimum height */
+  resize: none; /* Disable resizing by user */
+  overflow-y: hidden; /* Hide scrollbar */
+}
+.description-edit :focus{
+  outline: none;
+
+}
+
+.button-container {
+  margin-top: 10px;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+.save-button {
+  background-color: green;
+  color: white;
+}
+
+.cancel-button {
+  background-color: red;
+  color: white;
+}
+
+.edit-button {
+  background-color: blue;
+  color: white;
+}
+
+.btn-link {
+  background: none;
+  color: blue;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+}

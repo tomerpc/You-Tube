@@ -1,0 +1,27 @@
+
+#replyUsername{
+  width: fit-content;
+
+}
+
+#outerreply{
+  display: flex;
+  justify-content: row;
+  align-content: space-between;
+  margin: 0px;
+  }
+  #innerreply{
+
+    width: 100%;
+    margin-top: 0px;
+    border-radius: 4px;
+    padding: 10px;  
+    font-size: 14px;
+    border: 0px;
+  }
+  @media(max-width:600px) {
+    .button-container .icon-text {
+      margin-left: 0px;
+      display: none;
+    }
+  }

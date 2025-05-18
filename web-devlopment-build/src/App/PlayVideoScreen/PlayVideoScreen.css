@@ -1,0 +1,141 @@
+.PlayVideoScreen {
+  display: flex;
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: inherit;
+  width: inherit;
+}
+.videoContainer {
+  flex: 2;
+  width: 100%;
+}
+
+.VideoPlayer {
+  justify-content: flex-start; 
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  aspect-ratio: 16 / 9;
+}
+
+.videoTitle {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.buttonContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  justify-content: flex-end; 
+  flex-direction: row;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+.sidebar {
+  flex: 1;
+}
+
+.likeCounter {
+  margin-left: 10px;
+  font-size: 16px;
+}
+.videoProfile{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.videoProfile.buttonContainer{
+  display: flex;
+  align-items: right;
+  margin-bottom: 20px;
+  justify-content: flex-end; 
+}
+#profilepicandname{
+  display: flex;
+}
+#profilename{
+  height: fit-content;
+  padding: 10px;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#title-textarea {
+  font-size: 24px;
+  font-weight: bold;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  box-sizing: border-box; 
+  background-color: transparent;
+  color: inherit;
+  resize: none;
+  overflow-y: hidden;
+}
+#title-textarea:focus{
+  border: 2px solid grey;
+  outline: none;
+}
+
+@media (max-width:920px) {
+    .videoContainer{}
+    .sidebarBig {display: none;}
+    .PlayVideoScreen {
+      display:flex;flex-direction:column;}
+        .sidebar {order:2;}
+        .videoContainer {order:1;}
+        .comments {order:3;}
+    #shareVideo {
+      display: none;
+    }
+    #editVideo{
+      display: none;
+    }
+    #deleteVideo{
+      display: none;
+    }
+    .videoProfile{
+      flex-direction: column;
+    }
+}
+@media (min-width:920px) {
+  .videoContainer{
+    padding-right: 10px;}
+
+  .sidebarSmall {display: none;}
+}
+@media (max-width:1100px) {
+  #shareVideo {
+    display: none;
+  }
+  #editVideo{
+    display: none;
+  }
+  #deleteVideo{
+    display: none;
+  }
+  .videoProfile{
+    flex-direction: column;
+  }
+}

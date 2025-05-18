@@ -1,0 +1,10 @@
+.opend{
+    margin-left: 220px;
+    
+}
+
+@media (max-width:900px){
+    .opend{
+        margin-left: 0px;
+    }
+}

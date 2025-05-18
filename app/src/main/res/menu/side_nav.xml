@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/liked_videos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/sharp_thumb_up_24"
+        android:title="Liked videos" />
+
+    <item
+        android:id="@+id/watch_later"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_playlist_play_24"
+        android:title="Watch later" />
+
+    <item
+        android:id="@+id/mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_dark_mode_24"
+        android:title="Dark mode" />
+
+    <item
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="Logout" />
+
+    </group>
+</menu>

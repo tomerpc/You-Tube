@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#1D95FF</color>
+    <color name="dark_blue">#004480</color>
+
+
+    <color name="colorPrimary_night">#1C1B1F</color>
+    <color name="colorOnSurface_night">#01E0FD</color>
+    <color name="colorSecondaryContainer_night">#2C01FDE8</color>
+
+    <color name="colorPrimary_day">#fefbf3</color>
+    <color name="colorOnSurface_day">#79b4b7</color>
+    <color name="colorSecondaryContainer_day">#79b4b7</color>
+
+
+
+    <color name="transparent_green" tools:ignore="MissingDefaultResource">#1A24CDCD</color>
+    <color name="green" tools:ignore="MissingDefaultResource">#24CDCD</color>
+    <color name="transparent_dark_green" tools:ignore="MissingDefaultResource">#1A179191</color>
+    <color name="dark_green" tools:ignore="MissingDefaultResource">#179191</color>
+
+</resources>

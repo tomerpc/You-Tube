@@ -1,0 +1,50 @@
+.DropDown {
+    position: fixed;
+    top: 60px; 
+    right: 0;
+    width: 250px;
+    background-color: inherit;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: none;
+    border-radius: 10px;
+}
+
+.DropDown.open {
+    display: block;
+}
+
+.DropDown ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.DropDown ul li {
+    padding: 15px;
+}
+
+.DropDown ul li a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.DropDown ul li a:hover {
+    text-decoration: underline;
+}
+.profile-container{
+    display: flex;
+    flex-direction: row;
+}
+.dropDownList{
+    display: flex;
+    flex-direction: column;
+}
+.dropDownButton{
+    width: inherit;
+    padding: 10px;
+    background-color: inherit;
+    border: 0px;
+    color: inherit;
+    font-size: larger;
+}

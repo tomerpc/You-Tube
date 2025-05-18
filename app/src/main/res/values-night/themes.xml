@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ASPP" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary_night</item>
+        <item name="colorOnSurface">@color/colorOnSurface_night</item>
+        <item name="colorSecondaryContainer">@color/colorSecondaryContainer_night</item>
+    </style>
+</resources>

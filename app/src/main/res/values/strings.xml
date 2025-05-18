@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TooTube</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">1900003</string>
+    <string name="close_nav">1900002</string>
+    <string name="ok">0000000</string>
+    <string name="not_interested">0000001</string>
+    <string name="share">0000002</string>
+    <string name="watch_later">0000003</string>
+    <string name="report">0000004</string>
+    <string name="queue">0000005</string>
+    <string name="playlist">0000006</string>
+    <string name="not_recommend">0000007</string>
+    <string name="download">0000008</string>
+    <string name="BaseURL">http://10.0.2.2:4000/api/</string>
+    <string name="Base_Url">http://10.0.2.2:4000/</string>
+    <string name="login_edit_user">Username</string>
+    <string name="password_string">Password</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="welcome_login">Welcome!</string>
+    <string name="please_login_to_continue_using_our_app">Please login to continue using our app</string>
+    <string name="don_t_have_account_yet">Don\'t have account yet?</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="please_login_to_continue_using_our_app2">Please login to continue using our app</string>
+    <string name="signup">Don\'t have account yet?</string>
+    <string name="register">Register</string>
+    <string name="first_and_last_name">First and Last name</string>
+    <string name="repeat_your_password">Repeat your password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="please_login_to_see_this_screen">Please login to see this screen</string>
+    <string name="login">Login</string>
+</resources>

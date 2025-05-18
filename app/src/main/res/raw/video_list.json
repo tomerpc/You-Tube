@@ -1,0 +1,164 @@
+{
+  "videos": [
+    {
+      "publisher": "212543772",
+      "id": "212543772",
+      "duration": "20.25",
+      "title": "Fake title 1",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "app_logo",
+      "videoPathInRaw": "duck_spinning"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123132",
+      "duration": "20.25",
+      "title": "Fake title 2",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "app_logo",
+      "videoPathInRaw": "duck_spinning"
+    },
+    {
+      "publisher": "212543772",
+      "id": "121422",
+      "duration": "20.25",
+      "title": "Fake title 3",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "app_logo",
+      "videoPathInRaw": "duck_spinning"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "app_logo",
+      "videoPathInRaw": "duck_spinning"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail5",
+      "videoPathInRaw": "gta_7th_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail5",
+      "videoPathInRaw": "gta_8th_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail4",
+      "videoPathInRaw": "gta_9th_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail4",
+      "videoPathInRaw": "gta_10th_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail3",
+      "videoPathInRaw": "gta_fifth_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail3",
+      "videoPathInRaw": "gta_first_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail2",
+      "videoPathInRaw": "gta_fourth_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail2",
+      "videoPathInRaw": "gta_second_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail1",
+      "videoPathInRaw": "gta_sixth_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail1",
+      "videoPathInRaw": "gta_third_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "gta5_thumbnail1",
+      "videoPathInRaw": "untitled_vid"
+    },
+    {
+      "publisher": "212543772",
+      "id": "123722",
+      "duration": "20.25",
+      "title": "Fake title 4",
+      "description": "Fake description 1",
+      "tags": "Tutorials",
+      "thumbnailID": "eeeaaaooo_thumbnail",
+      "videoPathInRaw": "eeeaaaooo_vid"
+    }
+  ]
+}

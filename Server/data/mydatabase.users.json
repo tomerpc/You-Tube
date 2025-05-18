@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "666ef3f6333d2d5f5656511c"
+  },
+  "username": "meny",
+  "displayname": "Meny Parente",
+  "password": "meny1234",
+  "image": "/pictures/users/meny.png"
+},
+{
+  "_id": {
+    "$oid": "666ef3f6333d2d5f5656511d"
+  },
+  "username": "baby",
+  "displayname": "Baby Shark",
+  "password": "baby1234",
+  "image": "/pictures/users/baby.jpeg"
+},
+{
+  "_id": {
+    "$oid": "666ef3f6333d2d5f5656511e"
+  },
+  "username": "kobi",
+  "displayname": "Kobi Small",
+  "password": "kobi1234",
+  "image": "/pictures/users/kobi.jpeg"
+},
+{
+  "_id": {
+    "$oid": "667ef040194986d512853536"
+  },
+  "username": "jhon",
+  "displayname": "Jhon Huge",
+  "password": "jhon1234",
+  "image": "/pictures/users/1719595072813-jhon.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ef09b194986d5128535db"
+  },
+  "username": "toby",
+  "displayname": "Toby Massive",
+  "password": "toby1234",
+  "image": "/pictures/users/1719595163676-toby.jpg",
+  "__v": 0
+}]

@@ -1,0 +1,49 @@
+.add-video {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+  }
+  
+  .add-video h2 {
+    margin-bottom: 20px;
+  }
+  
+  .add-video form div {
+    margin-bottom: 10px;
+  }
+  
+  .add-video form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-video form input,
+  .add-video form textarea { /* Selects both input and textarea */
+    width: 100%; /* Make them fill the width */
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .add-video form button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-video form button:hover {
+    background-color: #218838;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
