@@ -27,7 +27,9 @@ This project is a **YouTube-like video platform** built as a full-stack applicat
 - C++ module (cpp_server) used for optimized processing and implementing a recommendation algorithm that delivers relevant videos to the user
 - MongoDB (data storage)
 
-📸 Full visual documentation and app screenshots can be found in the [`wiki/`](./wiki) directory, including separate guides for the web and Android versions.
+📸 Full visual documentation and app screenshots can be found in the [`wiki/`](./wiki) directory, including separate guides for the web and Android versions:
+- [📱 Android App Visual Guide](./wiki/Android_readMe.md)
+- [🌐 Web App Visual Guide](./wiki/Web_readMe.md)
 
 ---
 
