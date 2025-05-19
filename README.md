@@ -1,6 +1,35 @@
-# Advanced Web Development Project part 4
+# YouTube-Clone – Full-Stack App with Web, Android, Server & Database
 
-# Running the Server
+This project is a **YouTube-like video platform** built as a full-stack application including:
+
+- A responsive **web application**
+- A native **Android application**
+- A **Node.js + C++ backend server**
+- A **MongoDB** database (for video/user data)
+- A **Room database** (for local data persistence on Android)
+- Structured with a clean **MVVM architecture** on Android
+
+---
+
+## 🔧 Technologies Used
+
+### 🖥️ Web:
+- React.js (frontend)
+- RESTful API integration
+
+### 📱 Android:
+- MVVM architecture
+- Retrofit for API calls
+- Room for local persistence
+
+### 🌐 Server:
+- Node.js (API server)
+- C++ module (cpp_server) used for optimized processing and implementing a recommendation algorithm that delivers relevant videos to the user
+- MongoDB (data storage)
+
+---
+
+## 🚀 Running the Server
 
 To run the server, follow these steps:
 
